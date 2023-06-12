@@ -1,3 +1,13 @@
+# Preview 
+
+1. /
+![image](https://github.com/abdreams/OpenD-NFT-Marketplace/assets/97502890/e4e48c17-ea52-4c1d-9492-2048e8eb38d3)
+2. Discover for sale NFTs
+![image](https://github.com/abdreams/OpenD-NFT-Marketplace/assets/97502890/0bdb9713-690a-4634-9ede-26beafade601)
+3. Mint your own NFTs
+![image](https://github.com/abdreams/OpenD-NFT-Marketplace/assets/97502890/75450c78-6ca1-41ef-9044-fde58c3eee13)
+4. See your owned NFTs
+![image](https://github.com/abdreams/OpenD-NFT-Marketplace/assets/97502890/576b71d7-9fe7-4714-8754-064b8b35978f)
 
 
 # To Install and Run the Project
